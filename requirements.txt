@@ -1,0 +1,7 @@
+streamlit==1.29.0
+transformers==4.36.0
+torch==2.1.0
+sentencepiece==0.1.99
+protobuf==4.25.1
+dotenv
+# /Users/vardhika/Desktop/agentic_AI/Assignment_AI_summary/.venv/bin/python -m streamlit run main.py
