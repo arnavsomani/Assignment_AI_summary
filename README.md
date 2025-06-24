@@ -53,6 +53,7 @@ A lightweight Python application that generates three-bullet-point summaries fro
 
 ### 2. Create virtual environment and activate
 - python -m venv venv
+  
 ~ Mac: source venv/bin/activate 
 ~ Windows: venv\Scripts\activate
 
