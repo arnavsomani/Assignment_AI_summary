@@ -1,4 +1,4 @@
-### 🤖 AI-Enabled Text Summarizer
+### AI-Enabled Text Summarizer
 
 A lightweight Python application that generates three-bullet-point summaries from long-form text using Hugging Face transformer models.
 
@@ -22,7 +22,7 @@ A lightweight Python application that generates three-bullet-point summaries fro
    - Automatic device detection (GPU/CPU)
    - Model caching for faster subsequent runs
 
-## 🧠 Design Philosophy
+## Design Philosophy
 
 ### Core Principles:
 1. **Offline-First Approach**  
@@ -45,15 +45,11 @@ A lightweight Python application that generates three-bullet-point summaries fro
    - Progress indicators during processing
    - Clear success/error states
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
-### 1. Prerequisites
-- Python 3.8+
-- pip package manager
-- 2GB+ free disk space (for models)
-
-### 2. Installation Steps
+### 1. Installation Steps
 git clone https://github.com/your-repo/ai-summarizer-app
+
 cd ai-summarizer-app
 
 ### Create virtual environment and activate
