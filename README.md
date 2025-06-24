@@ -4,12 +4,12 @@ A lightweight Python application that generates three-bullet-point summaries fro
 
 ### Architecture Components:
 
-1. **Frontend (Streamlit)**  
+1. **Frontend (Streamlit)**  : (main.py)
    - Handles user input/output with real-time word counting
    - Manages application state and UI components
    - Displays summary results and error messages
 
-2. **Backend (TextSummarizer)**  
+2. **Backend (TextSummarizer)**  : (summarizer.py)
    - **Text Preprocessor**: Cleans and normalizes input text
    - **Chunking Engine**: Splits long texts into model-digestible segments
    - **Model Manager**:  
