@@ -58,8 +58,8 @@ cd ai-summarizer-app
 
 # Create virtual environment and activate
 python -m venv venv
-# Mac: source venv/bin/activate 
-# Windows: venv\Scripts\activate
+### Mac: source venv/bin/activate 
+### Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
