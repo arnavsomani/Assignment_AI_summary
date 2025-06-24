@@ -56,16 +56,16 @@ A lightweight Python application that generates three-bullet-point summaries fro
 git clone https://github.com/your-repo/ai-summarizer-app
 cd ai-summarizer-app
 
-# Create virtual environment and activate
+### Create virtual environment and activate
 python -m venv venv
 ### Mac: source venv/bin/activate 
 ### Windows: venv\Scripts\activate
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Download models (automatic on first run)
+### Download models (automatic on first run)
 
 streamlit run main.py
 
-# Wait for model download completion (2-5 minutes)
+### Wait for model download completion (2-5 minutes)
